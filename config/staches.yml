@@ -12,3 +12,7 @@
   filename: mustache_07.png
   vert_offset: 30
   mouth_overlap: 50
+-
+  filename: hitler.png
+  vert_offset:40
+  mouth_overlap:50
