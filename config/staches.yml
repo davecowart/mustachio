@@ -14,5 +14,6 @@
   mouth_overlap: 50
 -
   filename: hitler.png
-  vert_offset:40
-  mouth_overlap:50
+  vert_offset: 40
+  mouth_overlap: 50
+
